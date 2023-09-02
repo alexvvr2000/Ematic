@@ -1,0 +1,4 @@
+PyQt6==6.2.2
+aiosmtplib==1.1.6
+aiosqlite==0.17.0
+attrs==21.2.0
